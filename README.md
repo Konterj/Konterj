@@ -6,7 +6,7 @@
 </div>
 
 ## 🔥 Мои Проекты
-Посетите мой профиль для просмотра моих игр и проектов.
+мой профиль Itch.io
 <div id="badges">
   <a href="https://konterj.itch.io/">
     <img src="https://img.shields.io/badge/itch.io-red?style=for-the-badge&logo=itchdotio&logoColor=black&logoSize=auto&link=https%3A%2F%2Fkonterj.itch.io%2F" alt="itch.io-red Badge"/>
