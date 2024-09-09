@@ -1,4 +1,3 @@
-# Всем привет
 <div align="left">
   <a>
     <img src="https://media.tenor.com/lgBIFiVQFWIAAAAi/wave-hi.gif" width="312"/>
