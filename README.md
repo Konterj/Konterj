@@ -33,13 +33,13 @@
 - Adobe premier pro 2020
 
 ## 🖥️ Мой пк
-10.09.2024
-Windows 10 pro
-Жесткий диск 2 Tb
-Amd Fx 6300
-Gtx 680 palit jetstream 2gb
-Motherboard Asus M5A78L-M LX3 Plus 
-ozu 16 gb ddr3 1600
+- 10.09.2024
+- Windows 10 pro
+- Жесткий диск 2 Tb
+- Amd Fx 6300
+- Gtx 680 palit jetstream 2gb
+- Motherboard Asus M5A78L-M LX3 Plus 
+- ozu 16 gb ddr3 1600
 
 ## 📫 Связь со мной
 - den.zdanovich09@list.ru
