@@ -39,7 +39,7 @@
 - Amd Fx 6300
 - Gtx 680 palit jetstream 2gb
 - Motherboard Asus M5A78L-M LX3 Plus 
-- ozu 16 gb ddr3 1600
+- Ram 16 gb ddr3 1600
 
 ## 📫 Связь со мной
 - den.zdanovich09@list.ru
