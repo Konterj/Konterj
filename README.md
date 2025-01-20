@@ -40,6 +40,14 @@
 - Gtx 680 palit jetstream 2gb
 - Motherboard Asus M5A78L-M LX3 Plus 
 - Ram 16 gb ddr3 1600
+  
+-20.01.2025
+- Windows 10 pro
+- Жесткий диск 2 TB
+- Amd Ryzen 7 2700x
+- Gtx 680 palit jetstream 2 gb
+- B450 M-K revers 2.0
+- Ram 16 gb DDR4 3200
 
 ## 📫 Связь со мной
 - den.zdanovich09@list.ru
