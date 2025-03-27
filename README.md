@@ -44,7 +44,8 @@
 - Gtx 680 palit jetstream 2gb
 - Motherboard Asus M5A78L-M LX3 Plus 
 - Ram 16 gb ddr3 1600
-  
+
+  #
 - 20.01.2025
 - Windows 10 pro
 - Жесткий диск 2 TB
