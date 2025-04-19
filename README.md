@@ -54,5 +54,14 @@
 - B450 M-K revers 2.0
 - Ram 16 gb DDR4 3200
 
+#
+- 19.04.2025
+- Windows 10 pro
+- HDD 2 TB
+- R7 2700x
+- RX 5700
+- B450 M-K rev 2.0
+- RAM: 32 gb ddr4 3200
+
 ## 📫 Связь со мной
 - den.zdanovich09@list.ru
